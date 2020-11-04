@@ -7,7 +7,7 @@ public class PasswordCheck
     public static void main(String[] args)
     {
         Scanner input = new Scanner(System.in);
-        var pass=input.next();
+        String pass=input.next();
         int digitcounter=0;
         boolean valiable=false;
         System.out.println(pass.length());
