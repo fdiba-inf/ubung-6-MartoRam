@@ -33,5 +33,9 @@ public class PasswordCheck
         {
             System.out.println("Password valid!");
         }
+        else
+        {
+            System.out.println("Password valid!");
+        }
     }
 }
