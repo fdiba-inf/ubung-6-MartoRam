@@ -35,7 +35,7 @@ public class PasswordCheck
         }
         else
         {
-            System.out.println("Password valid!");
+            System.out.println("Password valid!s");
         }
     }
 }
