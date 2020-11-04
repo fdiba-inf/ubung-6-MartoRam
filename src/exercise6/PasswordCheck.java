@@ -10,7 +10,7 @@ public class PasswordCheck
         String pass=input.next();
         int digitcounter=0;
         boolean valiable=false;
-        System.out.println(pass.length());
+
         for (int i=0;i<pass.length();i++)
         {
             if (Character.isDigit(pass.charAt(i)))
